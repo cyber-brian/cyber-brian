@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Arnett
+# 👋 Hi, I'm Brian
 
 **Active-Duty Cyber Warfare Professional | Navy Cyber Instructor | TS/SCI w/ CI Poly**
 
