@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m an approachable, hands-on cybersecurity leader passi
 ## 👨‍💻 About Me
 
 - **Current Role:** U.S. Navy Cyber Warfare Professional (SOC Tier 3 Lead)
-- **Location:** Suffolk, VA
+- **Location:** Hampton, VA
 - **Clearance:** TS/SCI w/ CI Polygraph
 - **Certifications:** CASP+, PenTest+, CySA+, Security+, Network+, A+, SSCP, Project+
 - **Education:**  
