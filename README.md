@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m an approachable, hands-on cybersecurity leader passi
 
 ## 💡 Fun Fact
 
-When I’m not focused on cyber defense, you’ll probably find me diving into CTF competitions, building virtual labs, or solving tech puzzles—because cracking tough problems is my idea of fun. I might also be drudging through games of Hunt Showdown if I need a break. 
+When I’m not focused on cyber defense, you’ll probably find me diving into CTF competitions, building virtual labs, or solving tech puzzles. I might also be drudging through games of Hunt Showdown if I need a break. 
 
 ---
 
@@ -40,13 +40,3 @@ When I’m not focused on cyber defense, you’ll probably find me diving into C
 
 - [LinkedIn](https://www.linkedin.com/in/brian-arnett)
 - Email: [brian.arnett@protonmail.com](mailto:brian.arnett@protonmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-brian&show_icons=true&theme=gruvbox)
-
----
-
-*Always open to connect, collaborate, and learn—thanks for stopping by!*
