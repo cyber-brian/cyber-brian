@@ -4,6 +4,8 @@
 
 Welcome to my GitHub! I’m an approachable, hands-on cybersecurity leader passionate about defending complex systems, teaching the next generation of cyber professionals, and tackling challenging technical puzzles.
 
+Forewarning - I don't typically use github, so I may not know all the ins and outs.
+
 ---
 
 ## 👨‍💻 About Me
