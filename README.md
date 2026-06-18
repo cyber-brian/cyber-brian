@@ -10,7 +10,7 @@ Forewarning - I don't typically use github, so I may not know all the ins and ou
 
 ## 👨‍💻 About Me
 
-- **Current Role:** U.S. Navy Cyber Warfare Professional (SOC Tier 3 Lead)
+- **Current Role:** U.S. Navy Cyber Warfare Technician (Threat Hunt Lead)
 - **Location:** Hampton, VA
 - **Clearance:** TS/SCI w/ CI Polygraph
 - **Certifications:** CASP+, PenTest+, CySA+, Security+, Network+, A+, SSCP, Project+
